@@ -1,7 +1,4 @@
-# MouseEvent.offsetX
-Plain JavaScript implemenation of MouseEvent.offsetX and MouseEvent.offsetX
-
-MouseEvent.offsetX
+:zap: MouseEvent.offsetX
 ======
 **MouseEvent.offsetX** Plain JavaScript implemenation of MouseEvent.offsetX and MouseEvent.offsetX
 
@@ -21,10 +18,8 @@ function move(event, img) {
 ## Version 
 * Version 0.2
 
-:zap:
-
 ## Contact
 #### Developer/Company
-* Homepage: (www.giorgioriccardi.com)
-* e-mail: (giorgio.riccardi.ca@gmail.com)
+* Homepage: www.giorgioriccardi.com
+* e-mail: giorgio.riccardi.ca@gmail.com
 * Twitter: [@GioCreations](https://twitter.com/GioCreations "GioCreations on twitter")
