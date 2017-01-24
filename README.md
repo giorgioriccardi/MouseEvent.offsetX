@@ -17,6 +17,7 @@ function move(event, img) {
 ```
 ## Version 
 * Version 0.2
+* Demo: https://giorgioriccardi.github.io/MouseEvent.offsetX/
 
 ## Contact
 #### Developer/Company
