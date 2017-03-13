@@ -20,7 +20,7 @@ function move(event, img) {
 * Demo: https://giorgioriccardi.github.io/MouseEvent.offsetX/
 
 ## Contact
-#### Developer/Company
+#### Developer
 * Homepage: www.giorgioriccardi.com
 * e-mail: giorgio.riccardi.ca@gmail.com
 * Twitter: [@GioCreations](https://twitter.com/GioCreations "GioCreations on twitter")
